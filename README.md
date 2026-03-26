@@ -111,4 +111,4 @@ This project demonstrates the implementation of a sequential digital system usin
 - Franiuc Cristian - Nicolae  
 - Panaite Elena - Alexandra  
 
-Supervisor: Assist. PhD Student Ionica Pletea
+Supervisor: Ionica Pletea
