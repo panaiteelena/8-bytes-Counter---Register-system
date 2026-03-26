@@ -64,12 +64,6 @@ The design is implemented and tested on the BASYS3 FPGA development board using 
 - Maps outputs to LEDs
 - Implements 1 Hz clock using a frequency divider
 
-  <img width="573" height="618" alt="image" src="https://github.com/user-attachments/assets/35a29e1e-0021-454d-b656-a12cb426d50a" />
-
-  <img width="576" height="559" alt="image" src="https://github.com/user-attachments/assets/8bf854c5-2c73-4230-ac4c-43f8f64d0fb0" />
-
-
-
 ---
 
 ## Design Flow
